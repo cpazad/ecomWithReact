@@ -1,0 +1,14 @@
+.post-all {
+    background-color: #0088ccd5;
+    padding-bottom: 30px;
+}
+.post {
+    margin: 10px 0px;
+}
+
+.post:hover{
+    /* border: 1px solid #fff; */
+    /* box-shadow: 5px 5px 5px #88c2f1; */
+    box-shadow: 0 1rem 3rem rgba(22, 39, 65, 0.175);
+}
+

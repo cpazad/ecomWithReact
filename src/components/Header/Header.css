@@ -1,0 +1,76 @@
+.social li {
+    display: inline-block;
+    margin: 0px 15px;
+    color: black;
+    font-size: 20px;
+    
+}
+.social li:hover{
+    transform:scale(1.2);
+}
+.social li a {
+    color: #000;
+}
+
+ .topbar .social ul {
+    text-align: right;
+    padding:5px 0px;
+    margin-bottom: 0;
+}
+
+.topbar {
+    background-color: rgb(228, 230, 231);
+
+    color: black;
+}
+.topbar .call {
+    margin-top: 5px;
+}
+.topbar .social ul {
+    margin-bottom: 0; 
+}
+.bitem {
+    text-decoration: none;
+    color: black;
+}
+.logoright {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.logobar {
+    padding: 20px 0px 5px 0px;
+}
+.logobar .logo:hover{
+transform:scale(1.1);
+}
+
+.nav {
+    background-color: #0088cc;
+  
+}
+.navbar ul li {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    margin: 0px 15px;
+    border-radius: 3px;
+    letter-spacing: 1.5px;
+    
+
+}
+.navbar ul {
+    margin-bottom: 0px; 
+}
+/* .navbar ul Link {
+    display: block;
+    padding: 3px;
+} */
+.navbar ul li:hover {
+   background-color: rgb(228, 230, 231);
+   color: #000;
+}

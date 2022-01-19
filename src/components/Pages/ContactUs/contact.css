@@ -1,0 +1,21 @@
+.contactUs{
+    padding: 100px 0px;
+}
+.office ul li {
+    padding: 5px 0px;
+}
+
+.hours ul li {
+    padding: 5px 0px;
+}
+.hours {
+    margin: 10px 0px;
+    padding-top: 10px;
+}
+.touch {
+    padding-left: 25px;
+    margin-top: 25px;
+}
+.touch h4 {
+    padding-bottom: 10px;
+}

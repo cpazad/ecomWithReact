@@ -1,0 +1,14 @@
+.notfound  h1 {
+font-size: 200px;
+text-align: center;
+color: sandybrown;
+}
+.notfound h3 {
+    color: #000;
+    font-size: xx-large;
+    text-align: center;
+    margin: 20px 0px;
+}
+.notfound {
+    min-height: 270px;
+}

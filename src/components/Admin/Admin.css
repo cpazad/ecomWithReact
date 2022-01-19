@@ -1,0 +1,30 @@
+.dashboard {
+    padding: 45px 0px;
+    background-color: #e9e9e9;
+}
+.control-panel {
+    min-height: 600px;
+}
+.control-panel ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 10px 0px;
+    color: #333;
+    font-weight: 600;
+}
+.control-panel ul li:hover {
+   background-color: #0088cc;
+   color: #fff;
+}
+.control-panel ul li a:hover {
+   
+    color: #fff;
+ }
+ .content-panel {
+     min-height: 600px;
+ }
+ .content-panel h3 {
+     color: #000;
+     font-size: 45px;
+     font-weight: 700;
+ }
